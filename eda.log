@@ -1,0 +1,30 @@
+2026-02-05 14:53:39.201 | INFO     | eda_pipeline:load_data:29 - Loading dataset
+2026-02-05 14:54:21.154 | INFO     | eda_pipeline:load_data:29 - Loading dataset
+2026-02-05 14:55:11.837 | INFO     | eda_pipeline:load_data:29 - Loading dataset
+2026-02-05 14:55:40.328 | INFO     | eda_pipeline:load_data:29 - Loading dataset
+2026-02-05 14:55:40.377 | INFO     | eda_pipeline:load_data:31 - Dataset shape: (100000, 11)
+2026-02-05 14:55:40.377 | INFO     | eda_pipeline:drop_id_columns:38 - ID columns removed
+2026-02-05 14:55:40.377 | INFO     | eda_pipeline:missing_value_analysis:43 - Missing value analysis
+2026-02-05 14:55:40.407 | INFO     | eda_pipeline:duplicate_analysis:54 - Duplicate rows: 0
+2026-02-05 14:55:40.414 | INFO     | eda_pipeline:classify_columns:61 - Numerical columns: ['Age', 'CGPA', 'Sleep_Duration', 'Study_Hours', 'Social_Media_Hours', 'Physical_Activity', 'Stress_Level']
+2026-02-05 14:55:40.414 | INFO     | eda_pipeline:classify_columns:62 - Categorical columns: ['Gender', 'Department']
+2026-02-05 14:55:50.620 | INFO     | eda_pipeline:generate_sweetviz:125 - Generating Sweetviz report
+2026-02-05 15:04:45.242 | INFO     | eda_pipeline:load_data:39 - Loading dataset
+2026-02-05 15:04:45.303 | INFO     | eda_pipeline:load_data:41 - Dataset shape: (100000, 11)
+2026-02-05 15:04:45.303 | INFO     | eda_pipeline:drop_id_columns:48 - ID columns removed
+2026-02-05 15:04:45.303 | INFO     | eda_pipeline:missing_value_analysis:53 - Missing value analysis
+2026-02-05 15:04:45.328 | INFO     | eda_pipeline:duplicate_analysis:64 - Duplicate rows: 0
+2026-02-05 15:04:45.333 | INFO     | eda_pipeline:classify_columns:71 - Numerical columns: ['Age', 'CGPA', 'Sleep_Duration', 'Study_Hours', 'Social_Media_Hours', 'Physical_Activity', 'Stress_Level']
+2026-02-05 15:04:45.333 | INFO     | eda_pipeline:classify_columns:72 - Categorical columns: ['Gender', 'Department']
+2026-02-05 15:04:55.712 | INFO     | eda_pipeline:generate_sweetviz:226 - Generating Sweetviz report
+2026-02-05 15:05:00.772 | INFO     | eda_pipeline:run:249 - EDA Pipeline Completed
+2026-02-05 15:16:32.934 | INFO     | eda_pipeline:load_data:49 - Loading dataset
+2026-02-05 15:16:32.987 | INFO     | eda_pipeline:load_data:51 - Dataset shape: (100000, 11)
+2026-02-05 15:16:32.987 | INFO     | eda_pipeline:drop_id_columns:58 - ID columns removed
+2026-02-05 15:16:33.010 | INFO     | eda_pipeline:duplicate_analysis:71 - Duplicate rows: 0
+2026-02-05 15:16:45.815 | INFO     | eda_pipeline:run:281 - EDA Pipeline Completed
+2026-02-05 15:26:57.483 | INFO     | eda_pipeline:load_data:51 - Loading dataset
+2026-02-05 15:26:57.542 | INFO     | eda_pipeline:load_data:53 - Dataset shape: (100000, 11)
+2026-02-05 15:26:57.542 | INFO     | eda_pipeline:drop_id_columns:60 - ID columns removed
+2026-02-05 15:26:57.566 | INFO     | eda_pipeline:duplicate_analysis:73 - Duplicate rows: 0
+2026-02-05 15:27:10.235 | INFO     | eda_pipeline:run:295 - EDA Pipeline Completed

@@ -1,0 +1,15 @@
+data_path: C:\Users\Devansh\OneDrive\Documents\eda_pipeline\eda\dataset\students.csv
+target_column: Depression
+
+id_columns:
+  - Student_ID
+
+report_path: C:\Users\Devansh\OneDrive\Documents\eda_pipeline\eda\dataset\
+
+plots:
+  distribution: True
+  correlation: True
+  target_analysis: True
+
+outlier_detection: True
+missing_value_threshold: 0.3
