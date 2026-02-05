@@ -339,8 +339,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Devansh Sharma**
 
-- GitHub: [@devanshsharma](https://github.com/devanshsharma)
-- LinkedIn: [Connect with me](https://linkedin.com/in/devanshsharma)
+- GitHub: [@devanshsharma](https://github.com/DSTHEBEST)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/devansh-sharma-086aa5245/)
 
 ---
 
@@ -357,8 +357,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or issues:
 
 - **Open an issue** on GitHub
-- **Email:** your.email@example.com
-- **Documentation:** [Wiki](https://github.com/yourrepo/wiki)
+- **Email:** devanshs490@gmail.com
 
 ---
 
